@@ -7,4 +7,3 @@ This is 2nd test
 
 This is remote change.
 
-This is 3rd change
